@@ -34,6 +34,7 @@ plt.ylabel("roe")
 
 plt.show()
 ```
-
+# Result
+![image](https://github.com/user-attachments/assets/7f19f8d3-fb33-489a-8abd-3cfa554cfdc4)
 
 
